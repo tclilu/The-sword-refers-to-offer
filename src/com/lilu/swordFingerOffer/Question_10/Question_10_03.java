@@ -1,4 +1,4 @@
-package com.lilu.swordFingerOffer;
+package com.lilu.swordFingerOffer.Question_10;
 
 /**
  * 《剑指offer》
